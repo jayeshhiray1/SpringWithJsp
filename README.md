@@ -3,5 +3,5 @@ When building Web Applications, JavaServer Pages (JSP) is one option we can use 
 
 
 Result
+ScreenShot.png<img width="1440" alt="ScreenShot" src="https://user-images.githubusercontent.com/47211382/125328387-e21fcd80-e361-11eb-9d10-2fafdb71b0ba.png">
 
-ScreenShot.png
